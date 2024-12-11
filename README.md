@@ -80,6 +80,16 @@ The objective is to destroy all the bricks on the screen using a ball that bounc
 
 ---
 
+---
+### Game Output
+- **In Running**
+- ![Program Output](output2.png)
+
+- **When the Game is over**
+- ![Program Output](output.png)
+
+
+
 ### Extras 
 > **Developer's Note**: This project is extra special because it symbolizes a comeback story. Fun fact: I failed my OOP course in the regular semester, but I crushed it during the summer! Turns out, a little extra time and determination can turn a "failure" into a "feature upgrade." So if you’re struggling, just remember: persistence can break more bricks than this game ever will!
 
